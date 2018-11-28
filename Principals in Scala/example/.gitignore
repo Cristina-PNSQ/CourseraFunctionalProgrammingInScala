@@ -1,0 +1,10 @@
+#scala
+target
+*.class
+
+#inteliJ
+*.iml
+*.ipr
+*.iws
+.idea
+out
