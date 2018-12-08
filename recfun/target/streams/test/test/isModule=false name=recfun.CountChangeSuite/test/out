@@ -1,0 +1,3 @@
+[0m[[0minfo[0m] [0m[32mCountChangeSuite:[0m[0m
+[0m[[0minfo[0m] [0m[31m- countChange: example given in instructions *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  5 did not equal 3 (CountChangeSuite.scala:13)[0m[0m
